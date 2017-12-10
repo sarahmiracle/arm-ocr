@@ -13,7 +13,7 @@ $ git clone https://github.com/sarahmiracle/arm-ocr.git
 
 And install the dependencies
 ```bash
-$ cd ArmOcr
+$ cd arm-ocr
 $ npm install
 ```
 ---
