@@ -1,0 +1,34 @@
+{
+  "name": "arm-ocr",
+  "version": "1.0.0",
+  "description": "ArmOcr is a simple web application based on Node.js, that helps to transform images of typed and printed Armenian text into editable and searchable machine text.",
+  "main": "server.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "google-translate-api": "^2.3.0",
+    "http": "^0.0.0",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.3",
+    "socket.io-file": "^2.0.2",
+    "socket.io-file-client": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahmiracle/arm-ocr.git"
+  },
+  "keywords": [
+    "arm-ocr"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahmiracle/arm-ocr/issues"
+  },
+  "homepage": "https://github.com/sarahmiracle/arm-ocr#readme"
+}

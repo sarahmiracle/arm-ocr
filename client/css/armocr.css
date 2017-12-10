@@ -1,0 +1,11 @@
+.ocr_line
+{
+    display: block;
+}
+
+.final_text
+{
+    font-size: 14pt;
+    white-space: pre-wrap;
+    word-break: keep-all;
+}
